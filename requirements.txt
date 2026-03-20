@@ -1,4 +1,7 @@
 # requirements
+pandas
+numpy
+pytest
 xgboost==1.6.1
 flake8==7.0.0
 black==24.1.0
